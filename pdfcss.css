@@ -1,0 +1,27 @@
+#printArea {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 8.5in;
+    padding: 0.5in;
+}
+h1 { font-size: 24pt; margin: 16pt 0; }
+h2 { font-size: 20pt; margin: 14pt 0; }
+h3 { font-size: 16pt; margin: 12pt 0; }
+p { font-size: 12pt; margin: 12pt 0; line-height: 1.5; }
+code {
+    background: #f4f4f4;
+    padding: 2pt 4pt;
+    border-radius: 3pt;
+    font-family: monospace;
+}
+pre {
+    background: #f4f4f4;
+    padding: 8pt;
+    border-radius: 4pt;
+    margin: 12pt 0;
+    white-space: pre-wrap;
+}
+ul { margin: 12pt 0; padding-left: 24pt; }
+li { margin: 6pt 0; }
+a { color: blue; text-decoration: underline; }
